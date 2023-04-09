@@ -2,4 +2,4 @@
 Vue3+tsx UI Component
 
 ### npm install
-```npm i ReportUI```
+```npm i reportui```
